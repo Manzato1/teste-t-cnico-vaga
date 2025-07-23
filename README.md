@@ -14,7 +14,7 @@ Instalação
 
 Clone o repositório:
    ```bash
-   git clone https://seu-repositorio.git
+   git clone https://seu-repositorio.git](https://github.com/Manzato1/teste-t-cnico-vaga
    cd nome-do-projeto
 
    Instale as dependências:
