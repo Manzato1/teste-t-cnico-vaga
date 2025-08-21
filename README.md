@@ -1,6 +1,6 @@
  API Rick and Morty - Teste Técnico
 
-Esta é uma API RESTful desenvolvida em Node.js com Express, como parte do teste técnico para a vaga SP2024000216.
+Esta é uma API RESTful desenvolvida em Node.js com Express, como parte do teste técnico para a vaga.
 
  Tecnologias
 
@@ -20,4 +20,5 @@ Clone o repositório
    Instalação de dependências:
 bash
 npm install
+
 
