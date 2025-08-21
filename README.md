@@ -12,11 +12,12 @@ Esta é uma API RESTful desenvolvida em Node.js com Express, como parte do teste
 
 Instalação
 
-Clone o repositório:
-   ```bash
-   git clone https://seu-repositorio.git](https://github.com/Manzato1/teste-t-cnico-vaga
-   cd nome-do-projeto
+Clone o repositório
+   bash
+   git clone ht://github.com/Manzato1/teste-t-cnico-vaga
+   cd teste-t-tcnico-vaga
 
-   Instale as dependências:
-```bash
+   Instalação de dependências:
+bash
 npm install
+
